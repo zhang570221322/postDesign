@@ -1,0 +1,7 @@
+*.fa
+*.fna
+.vscode
+*.fna.gz
+MD5*
+viral
+testdata
